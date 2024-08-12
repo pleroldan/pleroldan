@@ -6,7 +6,7 @@
 I am a Telecommunications student at ISPC, driven by a passion for creating a greener future through innovative technology.  🌱
 - 🔭 I’m currently working on a fire detection system.
 - 👯 I’m learning telecommunications systems.
-- 🪛​ I'm a Electrical Technician
+- 🔌​ I'm a Electrical Technician
 - 🌱 I’m passionate about sustainable technology and environmental responsibility.
 - 💬 Ask me about problem-solving, team organization, and customer operations.
 - 📫 How to reach me: [pl.roldan1@gmail.com](mailto:pl.roldan1@gmail.com)
