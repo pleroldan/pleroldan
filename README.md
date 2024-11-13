@@ -4,8 +4,8 @@
 ## About Me
 
 I am a Telecommunications student at ISPC, driven by a passion for creating a greener future through innovative technology.  🌱
-- 🔭 I’m currently working, in my free time, on a early fire detection system.
-- 👯 I’m learning telecommunications systems.
+- 👯 I’m learning about telecommunications systems, including how to design devices from the edge onward.
+- 🔭 In my free time, I’m currently working on an early fire detection system.
 - 🔌​ I'm a Electrical Technician
 - 🌱 I’m passionate about sustainable technology and environmental responsibility.
 - 💬 Ask me about problem-solving, team organization, and customer operations.
